@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Chhaya-Matole/static/css/main.b8087346.css",
+    "main.js": "/Chhaya-Matole/static/js/main.e886feae.js",
+    "static/js/592.da62286b.chunk.js": "/Chhaya-Matole/static/js/592.da62286b.chunk.js",
+    "static/media/vpn.png": "/Chhaya-Matole/static/media/vpn.e05f7daf7b2aada9bc3d.png",
+    "static/media/copeople.png": "/Chhaya-Matole/static/media/copeople.d67f7e541d45db45cf45.png",
+    "index.html": "/Chhaya-Matole/index.html",
+    "main.b8087346.css.map": "/Chhaya-Matole/static/css/main.b8087346.css.map",
+    "main.e886feae.js.map": "/Chhaya-Matole/static/js/main.e886feae.js.map",
+    "592.da62286b.chunk.js.map": "/Chhaya-Matole/static/js/592.da62286b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8087346.css",
+    "static/js/main.e886feae.js"
+  ]
+}
